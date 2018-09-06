@@ -12,8 +12,6 @@ wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
 
 Assim que terminar, você poderá executá-lo novamente para adicionar mais usuários, remover alguns deles ou mesmo desinstalar completamente o OpenVPN.
 
-Eu quero rodar minha própria VPN, mas não tenho um servidor para isso
-Você pode obter um pequeno VPS de apenas US $ 1 / mês na VirMach.
 
 Doações
-Se você quiser mostrar seu apreço, você pode doar via PayPal ou cryptocurrency. Obrigado!
+Se você quiser mostrar seu apreço, você pode doar via PayPal Obrigado!
