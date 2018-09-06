@@ -15,3 +15,8 @@ Assim que terminar, você poderá executá-lo novamente para adicionar mais usu�
 
 Doações
 Se você quiser mostrar seu apreço, você pode doar via PayPal Obrigado!
+
+https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=48T8RCJUYZHW8&lc=BR&item_name=Nox%20Ripper&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
+=============
+
+
