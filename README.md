@@ -12,11 +12,10 @@ wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
 
 Assim que terminar, você poderá executá-lo novamente para adicionar mais usuários, remover alguns deles ou mesmo desinstalar completamente o OpenVPN.
 
-
 Doações
-Se você quiser mostrar seu apreço, você pode doar via PayPal Obrigado!
+<ul>
+  <li><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=48T8RCJUYZHW8&lc=BR&item_name=Nox%20Ripper&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" target="_blank" title="Ajudando a melhorar">Se você quiser mostrar seu apreço, você pode doar via PayPal Obrigado!</a></li>
+</ul>
 
-https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=48T8RCJUYZHW8&lc=BR&item_name=Nox%20Ripper&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
-=============
 
 
