@@ -18,25 +18,23 @@ Doações
 </ul>
 
 
-<b>Segue abaixo alguns parametros para ajustar seu servidor e cliente caso seja necessário:<b>
+<b>Segue abaixo alguns parametros para ajustar seu servidor e cliente caso seja necessário:</b>
 
 <h2>siga as instruções do instalador.<h2>
 
 para criar mais clientes execute novamente e escolha a opção de criar cliente alterando o nome do cliente
 após instalado e gerado os clientes
 
+<b>Para não bloquear a internet do cliente quando conectar a vpn.</b>
 va no arquivo ovp do cliente e retire o comando 
 
 setenv opt block-outside-dns
 
-para não bloquear a internet do cliente quando conectar a vpn.
+
+<b>Entendendo parâmetros.</b>
 
 
-
-Entendendo parâmetros.
-
-
-PARÂMETROS PARA SERVIDOR E CLIENTE
+<b>PARÂMETROS PARA SERVIDOR E CLIENTE</b>
 
 mode server :: introduzido a partir da versão 2.0. Nas versões anteriores, tínhamos apenas o modo P2P (point-to-point). Aqui ele é utilizado para tornar o nosso servidor um servidor multi-client, é obrigatório também, quando utilizamos alguns parâmetros, como "ifconfig-pool". 
 
