@@ -25,7 +25,7 @@ siga as instruções do instalador.
 para criar mais clientes execute novamente e escolha a opção de criar cliente alterando o nome do cliente
 após instalado e gerado os clientes
 
-<b>Para não bloquear a internet do cliente quando conectar a vpn.</b>
+<b>Para não bloquear a internet do cliente quando conectar a vpn.</b><br>
 va no arquivo ovp do cliente e retire o comando 
 
 setenv opt block-outside-dns
