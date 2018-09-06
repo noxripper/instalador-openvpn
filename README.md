@@ -18,20 +18,20 @@ Doações
 </ul>
 
 
-<b>Segue abaixo alguns parametros para ajustar seu servidor e cliente caso seja necessário:</b>
+Segue abaixo alguns parametros para ajustar seu servidor e cliente caso seja necessário:
 
-<h2>siga as instruções do instalador.<h2>
+siga as instruções do instalador.
 
 para criar mais clientes execute novamente e escolha a opção de criar cliente alterando o nome do cliente
 após instalado e gerado os clientes
 
-<b>Para não bloquear a internet do cliente quando conectar a vpn.</b>
+Para não bloquear a internet do cliente quando conectar a vpn.
 va no arquivo ovp do cliente e retire o comando 
 
 setenv opt block-outside-dns
 
 
-<b>Entendendo parâmetros.</b>
+Entendendo parâmetros.
 
 
 <b>PARÂMETROS PARA SERVIDOR E CLIENTE</b>
